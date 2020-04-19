@@ -13,4 +13,9 @@ https://www.keyconsultasweb.com.br/consultas-do-esocial/18-conteudo-key/index.ph
 https://infosimples.com/consultas/dnit-infracoes/
 ```
 
+## Api consulta por placa (paga)
+```
+http://www.placaapi.com/
+```
+
 
