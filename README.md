@@ -18,4 +18,7 @@ https://infosimples.com/consultas/dnit-infracoes/
 http://www.placaapi.com/
 ```
 
-
+## WSDENATRAN
+```
+https://catalogo.conecta.gov.br/store/apis/info?name=WSDenatran&version=v2&provider=ronnie.dilli
+```
