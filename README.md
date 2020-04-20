@@ -22,3 +22,8 @@ http://www.placaapi.com/
 ```
 https://catalogo.conecta.gov.br/store/apis/info?name=WSDenatran&version=v2&provider=ronnie.dilli
 ```
+
+## DADOS DE EMPRESAS 
+```
+https://casadosdados.com.br
+```
