@@ -33,3 +33,8 @@ https://casadosdados.com.br
 ```
 https://github.com/chapeupreto/sinesp
 ```
+
+## dados de veículos
+```
+https://github.com/deividfortuna/fipe
+```
