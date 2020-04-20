@@ -27,3 +27,9 @@ https://catalogo.conecta.gov.br/store/apis/info?name=WSDenatran&version=v2&provi
 ```
 https://casadosdados.com.br
 ```
+
+## consulta no sinesp
+(testado em 19/06/2020 -> not working)
+```
+https://github.com/chapeupreto/sinesp
+```
