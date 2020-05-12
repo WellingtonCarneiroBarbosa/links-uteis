@@ -38,3 +38,8 @@ https://github.com/chapeupreto/sinesp
 ```
 https://github.com/deividfortuna/fipe
 ```
+
+## api privada para instagram (python)
+```
+https://github.com/realsirjoe/instagram-scraper/tree/master/igramscraper
+```
