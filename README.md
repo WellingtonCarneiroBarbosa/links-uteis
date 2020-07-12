@@ -28,18 +28,27 @@ https://catalogo.conecta.gov.br/store/apis/info?name=WSDenatran&version=v2&provi
 https://casadosdados.com.br
 ```
 
-## consulta no sinesp
-(testado em 19/06/2020 -> not working)
+## Consulta no SINESP
 ```
 https://github.com/chapeupreto/sinesp
 ```
 
-## dados de veículos
+## Dados de Veículos
 ```
 https://github.com/deividfortuna/fipe
 ```
 
-## api privada para instagram (python)
+## Api privada instagram (python)
 ```
 https://github.com/realsirjoe/instagram-scraper/tree/master/igramscraper
+```
+
+## Resize Images on Laravel
+```
+https://tn710617.github.io/UploadAndResizeImagesWithLaravel/
+```
+
+## Our Courses
+```
+https://www.freecoursesonline.me/
 ```
