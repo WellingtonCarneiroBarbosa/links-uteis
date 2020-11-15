@@ -48,7 +48,8 @@ https://github.com/realsirjoe/instagram-scraper/tree/master/igramscraper
 https://tn710617.github.io/UploadAndResizeImagesWithLaravel/
 ```
 
-## Our Courses
+## Cursos Gratuitos (piratas :p)
 ```
 https://www.freecoursesonline.me/
+https://www.sharecursos.com
 ```
