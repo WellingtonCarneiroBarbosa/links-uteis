@@ -53,3 +53,8 @@ https://tn710617.github.io/UploadAndResizeImagesWithLaravel/
 https://www.freecoursesonline.me/
 https://www.sharecursos.com
 ```
+
+## Fast schema search with deep learning 
+```
+https://github.com/valeriansaliou/sonic
+```
